@@ -1,0 +1,28 @@
+// Recursion : Call it self a function when the base condition is not true it can't out to the function.
+// -> It is alternative of the loops
+// -> Time Complexity : 2^n
+// -> Recursive has two types
+// 1. tail
+// // Recursive call is the last statement to be executed
+// 2. no-tail
+// // There are more implementation / statement to be executed after recursive call.
+
+
+
+// Collections : 
+// ->Limitation of array to solve this limitation is Hashing
+// // ->Array -> ArrayList (dynamic time grow or shrink about it)
+
+// //  -> HashSet ->we can store only unique values
+
+// // -> HashMap -> we have key to uniquely identifies the data
+
+// key -> RollNo (Integer)
+// value -> StudentName (String)
+
+
+
+// Stack Queue
+// Stacks -> LIFO
+// Queus -> FIFO
+
